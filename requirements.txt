@@ -1,4 +1,7 @@
-flask
-opencv-python
-numpy
-pyttsx3
+flask==2.2.5
+opencv-python==4.8.1.78
+numpy==1.26.4
+pyttsx3==2.99
+Pillow==9.5.0
+face-recognition-models==0.3.0
+dlib-bin==19.24.2
