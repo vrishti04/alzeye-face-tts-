@@ -1,0 +1,4 @@
+flask
+opencv-python
+numpy
+pyttsx3
